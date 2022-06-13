@@ -9,7 +9,7 @@ HTML | CSS | JS | API
 [Weather Dashboard](https://andyboyee604.github.io/Weather-Dashboard/)
 
 ## Usage
-![alt text]()
+![alt text](./assets/image/Screenshot1.jpg)
 
 ## Source Referenced
 [OpenWeather One Call API](https://openweathermap.org/api/one-call-api)
